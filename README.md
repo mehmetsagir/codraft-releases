@@ -32,4 +32,9 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.16 — 2026-02-20
+
+- chore(package): bump version to 0.0.16
+- fix(releases): check for README existence
+
 <!-- CHANGELOG_END -->
