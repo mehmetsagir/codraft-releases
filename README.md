@@ -32,6 +32,12 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.17 — 2026-02-20
+
+- chore(release): bump version to 0.0.17
+- refactor(settings): update banners and styles
+- feat(ai): remove AI code review feature
+
 ### v0.0.16 — 2026-02-20
 
 - chore(package): bump version to 0.0.16
