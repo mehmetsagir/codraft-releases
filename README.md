@@ -32,6 +32,25 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.18 — 2026-02-22
+
+- chore(release): bump version to 0.0.18
+- feat(themes): add Monokai theme
+- feat(renderer): add dracula theme
+- docs(themes): add dracula theme
+- feat(board): improve crash recovery and task management
+- style(ui): update markdown editor and pipeline detail styles
+- feat(board): add multi-agent task orchestration
+- feat(themes): add nord theme and update color themes
+- refactor(ui): enhance AppPullRequestsView rendering
+- feat(ui): display open PR count in sidebar
+- feat(renderer): add image file preview support
+- chore(build): update application icon
+- feat(board): add AI-enhanced description and advanced settings
+- chore(workflow): update repo URL in release script
+- refactor(ui): update settings page and styles
+- fix(updater): disable auto download
+
 ### v0.0.17 — 2026-02-20
 
 - chore(release): bump version to 0.0.17
