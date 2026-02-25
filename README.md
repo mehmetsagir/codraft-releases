@@ -32,6 +32,12 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.24 — 2026-02-25
+
+- chore(package): bump version to 0.0.24
+- style(ui): add styles for CLI installation UI
+- feat(cli): add CLI integration for opening projects
+
 ### v0.0.22 — 2026-02-25
 
 - chore(package): bump version to 0.0.22
