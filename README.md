@@ -32,6 +32,11 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.22 — 2026-02-25
+
+- chore(package): bump version to 0.0.22
+- chore(config): exclude test files in tsconfig
+
 ### v0.0.19 — 2026-02-23
 
 - chore(package): bump version to 0.0.19
