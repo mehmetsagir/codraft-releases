@@ -32,6 +32,10 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.28 — 2026-03-02
+
+- chore(package): bump version to 0.0.28
+
 ### v0.0.27 — 2026-03-02
 
 - chore(release): bump version to 0.0.27
