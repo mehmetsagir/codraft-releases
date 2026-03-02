@@ -32,6 +32,11 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.27 — 2026-03-02
+
+- chore(release): bump version to 0.0.27
+- fix(build): remove committed tsbuildinfo files to fix CI build failures
+
 ### v0.0.24 — 2026-02-25
 
 - chore(package): bump version to 0.0.24
