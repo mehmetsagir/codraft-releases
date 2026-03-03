@@ -32,6 +32,11 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.32 — 2026-03-03
+
+- chore(package): bump version to 0.0.32
+- feat(build): add beforePack script for file existence checks
+
 ### v0.0.30 — 2026-03-03
 
 - chore(release): bump version to 0.0.30
