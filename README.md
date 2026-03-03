@@ -32,6 +32,13 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.30 — 2026-03-03
+
+- chore(release): bump version to 0.0.30
+- style(index): improve comment clarity for page reload prevention
+- feat(index): add error logging for console messages and load failures
+- refactor(index): remove DevTools shortcut handling
+
 ### v0.0.29 — 2026-03-03
 
 - chore(release): bump version to 0.0.29
