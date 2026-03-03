@@ -32,6 +32,11 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.29 — 2026-03-03
+
+- chore(release): bump version to 0.0.29
+- feat(desktop): enhance error logging
+
 ### v0.0.28 — 2026-03-02
 
 - chore(package): bump version to 0.0.28
