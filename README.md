@@ -32,6 +32,31 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.33 — 2026-03-04
+
+- chore(release): bump version to 0.0.33
+- feat(ui): add caching for usage limits
+- style(ui): update create-task-modal styles
+- refactor(board): adjust task title input section
+- feat(board): add settings prop to modals
+- style(ui): update branch selector styles
+- feat(menu): implement menu actions and IPC communication
+- feat(pipeline): add live file change tracking
+- fix(types): make kind property in AgentPreset non-optional
+- refactor(utils): remove unused functions in modelCatalog
+- style(css): remove unused models panel styles
+- refactor(hooks): simplify useAgentModels return values
+- refactor(settings): remove unused prop and update model handling
+- feat(settings): update ai provider settings
+- refactor(model-parsing): use parseModelRef
+- feat(ai-providers): add codex support
+- refactor(ai-models): remove openai model fetching
+- style(ui): add styles for settings models hero
+- fix(ui): correct chat and feature model assignment
+- feat(board): add agent preset support to task forms
+- feat(ai): add model catalog and agent presets
+- fix(agent): update GLM model argument handling
+
 ### v0.0.32 — 2026-03-03
 
 - chore(package): bump version to 0.0.32
