@@ -32,6 +32,12 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.35 — 2026-03-09
+
+- chore(package): bump version to 0.0.35
+- feat(terminal): stable viewport and resize improvements
+- style(ui): update styles for settings update
+
 ### v0.0.34 — 2026-03-09
 
 - chore(package): bump version to 0.0.34
