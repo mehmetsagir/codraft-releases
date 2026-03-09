@@ -32,6 +32,34 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.34 — 2026-03-09
+
+- chore(package): bump version to 0.0.34
+- docs(editor): update IntelliSense features
+- feat(language-features): add new LSP providers
+- docs(editor): update IntelliSense and RN support
+- feat(editor): update Monaco config for TS/JS
+- feat(lsp): add TypeScript LSP support
+- feat(ui): add aria attributes to chat panel
+- refactor(handlers): enhance file selection and settings handlers
+- style(file-history): update overlay and modal styles
+- feat(file-panel): remove refresh button
+- feat(app): add lazy loading for file history view
+- feat(landing): enhance page with new components
+- style(ui): add new page orb styles
+- docs(codraft): add comprehensive feature documentation
+- style(css): remove unused file panel tree row styles
+- feat(ui): enhance TabBar with pinned tab affordance
+- feat(state): add filePanelWidth to global state
+- style(landing): update landing page and hero visual
+- style(ui): update component and terminal styles
+- fix(filesystem): ignore internal project memory
+- feat(shell): add shell operations
+- feat(file-panel): enhance file panel features
+- feat(editor): add editor tab management
+- feat(board-types): add task spec and implementation plan
+- docs(board): update documentation with new features
+
 ### v0.0.33 — 2026-03-04
 
 - chore(release): bump version to 0.0.33
