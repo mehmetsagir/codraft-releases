@@ -32,6 +32,12 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.37 — 2026-03-11
+
+- chore(release): bump version to 0.0.37
+- feat(shortcuts): update terminal navigation keys
+- fix(terminal): improve resizing and navigation
+
 ### v0.0.36 — 2026-03-11
 
 - chore(release): bump version to 0.0.36
