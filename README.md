@@ -32,6 +32,16 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.38 — 2026-03-11
+
+- chore(release): bump version to 0.0.38
+- feat(terminal): handle buffer change for screen resizing
+- refactor(ui): remove project runner functionality
+- feat(state): improve terminal panes state saving
+- feat(terminal): optimize git status polling
+- refactor(terminal): use ResizeObserver for resize handling
+- feat(terminal): enhance drag-and-drop support
+
 ### v0.0.37 — 2026-03-11
 
 - chore(release): bump version to 0.0.37
