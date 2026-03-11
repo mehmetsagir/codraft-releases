@@ -32,6 +32,34 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.36 — 2026-03-11
+
+- chore(release): bump version to 0.0.36
+- refactor(ui): remove unused form setting
+- refactor(agent-core): enhance review output parsing
+- refactor(agent-core): unify personal review transition
+- feat(board): enforce personal review in pipeline
+- feat(reviewStage): implement personal review escalation
+- feat(reviewEngine): add markdown stripping and verdict index finding
+- refactor(settings): improve multi-agent handling
+- chore(board): remove unused useBoardDrawerAnimation hook
+- refactor(pipeline): improve modularity of pipeline hooks
+- fix(board): reset PlanTab on task change
+- feat(board): enhance ChangesTab and LogsTab
+- test(board): add tests for boardViewUtils and logPresentation
+- feat(board): add terminal actions set to boardCardUtils
+- fix(board): handle task deletion errors in BoardView
+- refactor(board): integrate BoardClearConfirmModal in BoardColumn
+- feat(board): improve BoardClearConfirmModal accessibility
+- feat(board): enhance board card components
+- feat(board): add in-memory board cache
+- chore(hooks): remove unused BoardCardStatus hook
+- chore(styles): remove deprecated kanban board styles
+- style(board): use CSS variables for colors
+- refactor(pipeline): enhance hooks with updating refs
+- refactor(board): add stable callbacks for plan approval
+- refactor(board): remove redundant keydown handler
+
 ### v0.0.35 — 2026-03-09
 
 - chore(package): bump version to 0.0.35
