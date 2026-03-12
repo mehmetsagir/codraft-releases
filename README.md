@@ -32,6 +32,19 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.39 — 2026-03-12
+
+- chore(release): bump version to 0.0.39
+- feat(editor): configure monaco workers
+- feat(lsp): enhance Vue LSP setup
+- feat(editor): improve monaco config and library loading
+- feat(editor): enhance language support and remove CDN config
+- feat(lsp): add configuration and capability handling
+- feat(agent-core): support image paths in pipeline
+- refactor(terminal): improve drag and drop handling
+- feat(ai-chat): add drag and drop image support
+- refactor(ui): update settings update downloading styles
+
 ### v0.0.38 — 2026-03-11
 
 - chore(release): bump version to 0.0.38
