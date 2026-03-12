@@ -32,6 +32,34 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.40 — 2026-03-12
+
+- chore(release): bump version to 0.0.40
+- feat(desktop): add clone repository feature
+- refactor(hooks): use const for currentTask
+- style(comments): distinguish user and agent comments
+- style(board): add loading skeleton styles
+- fix(subtasks): add error handling for subtask approval
+- fix(pipeline): improve cleanup error logging
+- fix(board): enhance task reset and error handling
+- fix(logs): fix log presentation key stability
+- feat(overview): improve comments rendering
+- refactor(logs): optimize log entries merging
+- feat(board): add loading state and clear confirmation
+- feat(board): enhance caching and shutdown handling
+- refactor(hooks): optimize task selection in useBoard
+- refactor(ui): improve multi-agent plan task handling
+- feat(board): add rolling backups on save
+- refactor(runtime): optimize emission and status handling
+- feat(ui): lazy keep-alive for tabs
+- fix(hooks): enhance error handling in usePipelineSubtasks
+- fix(hooks): enhance error handling in usePipelineApproval
+- fix(hooks): correct log count reference in usePipeline
+- fix(hooks): improve task reset and creation in useBoard
+- fix(ui): improve log handling in LogsTab
+- fix(ui): improve file loading logic in ChangesTab
+- feat(ui): prevent duplicate approvals in SubtaskPlanModal
+
 ### v0.0.39 — 2026-03-12
 
 - chore(release): bump version to 0.0.39
