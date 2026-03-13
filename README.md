@@ -32,6 +32,13 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.41 — 2026-03-13
+
+- chore(release): bump version to 0.0.41
+- feat(pipeline): include resumeDiff in task status
+- feat(pipeline): add projectPath support in approval
+- style(ui): add flex styling to tab panels
+
 ### v0.0.40 — 2026-03-12
 
 - chore(release): bump version to 0.0.40
