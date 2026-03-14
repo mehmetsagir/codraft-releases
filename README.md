@@ -32,6 +32,20 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.42 — 2026-03-14
+
+- chore(release): bump version to 0.0.42
+- feat(ui): handle async approve in board card
+- feat(pipeline): add taskId support to reapply
+- fix(terminal): use onMouseDownCapture for activation
+- feat(ui): add rate limits update listener
+- feat(ai): add rate limits polling
+- feat(ui): integrate create project feature
+- feat(filesystem): add create project folder functionality
+- docs(decisions): update decisions documentation
+- docs(memory): update terminal and chat context documentation
+- feat(terminal): improve performance with buffering and throttling
+
 ### v0.0.41 — 2026-03-13
 
 - chore(release): bump version to 0.0.41
