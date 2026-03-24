@@ -32,6 +32,15 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.48 — 2026-03-24
+
+- chore(package): bump version to 0.0.48
+- style(ai-chat): adjust CSS styles
+- feat(ai-chat): add image resizing for attachments
+- fix(ai-chat): escape HTML in markdown
+- style(ai-chat): update placeholder text
+- feat(ai-chat): add resend message and error boundary
+
 ### v0.0.47 — 2026-03-24
 
 - chore(package): bump version to 0.0.47
