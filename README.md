@@ -32,6 +32,12 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.47 — 2026-03-24
+
+- chore(package): bump version to 0.0.47
+- style(ui): add CSS for left-positioned file panel
+- feat(ui): add file panel position setting
+
 ### v0.0.45 — 2026-03-24
 
 - chore: update version
