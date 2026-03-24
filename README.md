@@ -32,6 +32,34 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.43 — 2026-03-24
+
+- chore(package): bump version to 0.0.43
+- test(board): update task payload creation test
+- style(ui): adjust CSS for select container in settings
+- fix(mobile): update default AI chat model
+- test(ai): update tests for model selection and routing
+- refactor(ai): replace models.dev with static registry
+- chore(settings): remove .codraft from default ignored
+- docs(settings): update ignored paths description
+- feat(board): filter file changes in board components
+- feat(main): add built-in ignored entries
+- refactor(logs): remove useIncrementalList from logs tab
+- style(ui): update sidebar icon for scripts
+- feat(settings): update default ignored entries
+- feat(board): add incremental list loading
+- feat(board): limit files in DescriptionEditor
+- refactor(terminal): improve reconnection logic
+- style(ui): add custom select container styles
+- refactor(terminal): improve key event handling
+- docs(memory): update theme system and decisions documentation
+- fix(chat-api): improve provider to agent type mapping
+- fix(project-runner): correct bun lockfile detection
+- feat(process-manager): add process manager feature
+- fix(agent-pipeline): improve session memory handling
+- feat(ai-chat): improve agent-powered chat experience
+- fix(agent-pipeline): improve session memory handling
+
 ### v0.0.42 — 2026-03-14
 
 - chore(release): bump version to 0.0.42
