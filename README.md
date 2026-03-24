@@ -32,6 +32,11 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.44 — 2026-03-24
+
+- chore(release): bump version to 0.0.44
+- feat(ui): sort files by directory depth in QuickOpen
+
 ### v0.0.43 — 2026-03-24
 
 - chore(package): bump version to 0.0.43
