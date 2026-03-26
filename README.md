@@ -32,6 +32,32 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.49 — 2026-03-26
+
+- chore(release): bump version to 0.0.49
+- docs(ui): update layout and page metadata
+- style(ui): revamp global styles
+- style(ui): update HeroVisual component styles
+- refactor(ui): improve animation logic in AnimateIn
+- feat(desktop): add clipboard image handling
+- refactor(ai-chat): remove restore confirmation dialog
+- feat(ai-chat): handle restored content after truncation
+- chore: AI chat checkpoint
+- feat(ai-chat): handle message truncation for checkpoints
+- feat(git): add auto-commit checkpoint for AI chat
+- feat(ipc): add stashCreate channel
+- feat(ai-chat): add message truncation to checkpoint
+- feat(ai-chat): add context chip display to input bar
+- feat(ai-chat): add git checkpoint restore functionality
+- feat(ai-chat): enhance UI and functionality
+- feat(ai): add streaming support for AI chat
+- refactor(ai-chat): simplify TypewriterBubble logic
+- refactor(ai-chat): remove working indicator
+- refactor(ai-chat): simplify AgentLogs component
+- fix(app): refine slash command detection
+- fix(ai-chat): improve markdown handling
+- style(ai-chat): update diff block styles
+
 ### v0.0.48 — 2026-03-24
 
 - chore(package): bump version to 0.0.48
