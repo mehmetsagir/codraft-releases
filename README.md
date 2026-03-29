@@ -32,6 +32,34 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.50 — 2026-03-29
+
+- chore(release): bump version to 0.0.50
+- style(ui): update styles for AI chat and scripts
+- chore(state): add debugging and improve persistence
+- refactor(ai-chat): update components for model handling
+- feat(ai): enhance provider configuration and APIs
+- feat(ai): add chat tool loop and tool execution
+- fix(terminal): conditionally update terminal actions
+- feat(terminal): improve terminal transfer and connection
+- feat(terminal): add transfer and attach functionality
+- style(ui): update header styles for draggable project
+- feat(desktop): add cross-window project transfer
+- feat(ui): revamp welcome screen layout and styles
+- feat(window): identify fresh new windows
+- refactor(ui): use flexible grid and flexbox for settings
+- chore: AI chat checkpoint
+- style(layout): remove unused status bar model styles
+- refactor(status-bar): remove unused currentView prop
+- refactor(ui): remove AI model indicators from StatusBar
+- style(ui): update modal width and button whitespace
+- refactor(git): simplify commit amendments logic
+- style(git): enhance CSS for git components
+- feat(desktop): remove dashboard feature
+- refactor(ui): reorder pull requests button in sidebar
+- chore(shortcuts): update default shortcuts
+- feat(ui): improve persistent state handling
+
 ### v0.0.49 — 2026-03-26
 
 - chore(release): bump version to 0.0.49
