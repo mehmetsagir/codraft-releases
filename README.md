@@ -32,6 +32,19 @@ brew install --cask mehmetsagir/tap/codraft
 ## Changelog
 
 <!-- CHANGELOG_START -->
+### v0.0.53 — 2026-04-08
+
+- chore(release): bump version to 0.0.53
+- chore: update remaining files
+- style(board): update styles for board and Jira integration
+- feat(settings): add integrations tab
+- feat(markdown): improve rendering with image and table support
+- feat(board): enhance board with Jira import and source URL
+- feat(jira): add Jira integration
+- feat(dependencies): add zod package
+- feat(packages): add multi-agent package
+- feat(dependencies): add ws package to dependencies
+
 ### v0.0.50 — 2026-03-29
 
 - chore(release): bump version to 0.0.50
